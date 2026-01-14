@@ -1,0 +1,13 @@
+{
+  "rolesPermissions" : {
+    "default" : [ "Allow SensorMode", "Allow VEntityChanger", "Allow RopeMode", "Allow ScaleMode", "Allow StripMode", "Allow SchemMode", "Allow GravChangerMode", "Allow MassChangerMode", "Allow ShipRemoverMode", "Allow Command Usage", "Allow ConnectionMode", "Allow HydraulicsMode", "Allow ThrusterMode", "Allow DisableCollisionsMode" ]
+  },
+  "playersRoles" : {
+    "9e538ddd-e979-4729-b9b2-d298c8df70d4" : {
+      "uuid" : "9e538ddd-e979-4729-b9b2-d298c8df70d4",
+      "nickname" : "gemjak",
+      "role" : "default"
+    }
+  },
+  "allRoles" : [ "default" ]
+}
